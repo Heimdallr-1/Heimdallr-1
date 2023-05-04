@@ -13,6 +13,7 @@
 1. **Хотите поддержать мою работу финансово?**
    - [Boosty](https://boosty.to/heimdallr-1)
      - **Вы можете поддержать меня небольшим пожертвованием за мою работу.**
+     - [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A2L06IC)
 
 ![boosty-heimdallr-1-donate](https://user-images.githubusercontent.com/41973639/234862226-0d6c7abf-4b20-4112-982c-c31e6e2da39a.png)
 
