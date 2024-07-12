@@ -11,7 +11,7 @@
 
 ## Supporting My Translations
 1. **Want to support my work financially?**
-   - [Boosty](https://boosty.to/heimdallr-1)
+   - [Boosty](https://boosty.to/heimdallr-1) or [DonationAlerts](https://www.donationalerts.com/r/heimdallr1)
      - **You can support me with a small donation for my work.**
 
 ![boosty-heimdallr-1-donate](https://user-images.githubusercontent.com/41973639/234862226-0d6c7abf-4b20-4112-982c-c31e6e2da39a.png)
@@ -34,7 +34,7 @@
 
 ## Поддержка моих переводов
 1. **Хотите поддержать мою работу финансово?**
-   - [Boosty](https://boosty.to/heimdallr-1)
+   - [Boosty](https://boosty.to/heimdallr-1) или [DonationAlerts](https://www.donationalerts.com/r/heimdallr1)
      - **Вы можете поддержать меня небольшим пожертвованием за мою работу.**
 
 ![boosty-heimdallr-1-donate](https://user-images.githubusercontent.com/41973639/234862226-0d6c7abf-4b20-4112-982c-c31e6e2da39a.png)
