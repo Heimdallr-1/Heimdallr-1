@@ -28,6 +28,6 @@
    - [Почта](heimdallr196@gmail.com)
 
 # График активности
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Heimdallr-1&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Heimdallr-1&theme=vision_friendly_dark)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Heimdallr-1&theme=vision_friendly_dark&utcOffset=8)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=heimdallr-1&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=heimdallr-1&theme=vision_friendly_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=heimdallr-1&theme=vision_friendly_dark&utcOffset=8)
